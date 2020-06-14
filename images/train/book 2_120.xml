@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>book 2_120.jpg</filename>
+	<path>E:\tensorflowapi\models\research\object_detection\images\train\book 2_120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>optics</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>251</ymin>
+			<xmax>1015</xmax>
+			<ymax>1324</ymax>
+		</bndbox>
+	</object>
+</annotation>

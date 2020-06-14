@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>book sorting mechatronics photos._17.jpg</filename>
+	<path>E:\tensorflowapi\models\research\object_detection\images\train\book sorting mechatronics photos._17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mechatronics</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>268</ymin>
+			<xmax>1037</xmax>
+			<ymax>1444</ymax>
+		</bndbox>
+	</object>
+</annotation>

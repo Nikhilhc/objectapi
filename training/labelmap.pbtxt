@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'mechanics'
+}
+
+item {
+  id: 2
+  name: 'optics'
+}
+
+item {
+  id: 3
+  name: 'clang'
+}
+
+item {
+  id: 4
+  name: 'mechatronics'
+}
